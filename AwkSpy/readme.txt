@@ -3,8 +3,8 @@ App Title:AwkSpy
 
 keywords:Spyware,Perl Tk,two way client-server communication
 
-Functionality:spyware app built on perl tk platform which retrieves critical content from victim and 
-run commands in his machine.
+Functionality:spyware app built on perl tk platform which retrieves critical content from victim and run commands in 
+his machine.
 
 Support: 
 server-linux machine with perl,perl tk installed.
@@ -12,7 +12,7 @@ client-just the perl intrprtr.
 
 [TO_DO]
 Server pc:
-place the awkspy_dir directory in the root.
+put the awkspy_dir directory in the root.
 1-Create empty /root/awkspy_dir/knock.txt with nec. permissions.
 2-start server[server.pl]
 3-run gui_server.pl[send commands]
