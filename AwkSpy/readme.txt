@@ -29,6 +29,8 @@ speciality:
 Apart from cl-servr comm,the app smartly avoids reader-writer problem by using a shared file between process.
 ---------------------------------
 
+Launched on:23th october 2013
+
 
 Dev. by: 
 Vignesh kumar|Balasubramanian|Abishek.
